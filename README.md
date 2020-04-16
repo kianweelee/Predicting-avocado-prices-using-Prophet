@@ -1,3 +1,4 @@
+![](https://cdn.loveandlemons.com/wp-content/uploads/2020/01/how-to-make-avocado-toast.jpg)
 # Predicting-avocado-prices-using-Prophet
 Predicting avocado prices using Prophet [Kaggle]
 
